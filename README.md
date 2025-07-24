@@ -61,7 +61,7 @@ Floods are unpredictable and complex events influenced by dynamic environmental 
 
 ## 🔮 Conclusion
 
-Bootstrap Forest and RNN models emerged as top performers for flood prediction. The integration of machine learning with spatial and temporal data improved both the predictive power and practical applicability of the models. This framework serves as a valuable tool for disaster response planning, policy-making, and real-time risk assessment.
+Bootstrap Forest and RNN models emerged as top performers for flood prediction.But Boostrap forest was rejected due to its overfitting nature and RNN was accepted as it was the most suitable model for the prediction. The integration of machine learning with spatial and temporal data improved both the predictive power and practical applicability of the models. This framework serves as a valuable tool for disaster response planning, policy-making, and real-time risk assessment.
 
 ---
 
